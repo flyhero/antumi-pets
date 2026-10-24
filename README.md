@@ -23,7 +23,7 @@ node --test scripts/*.test.mjs
 - 附件：GitHub Release `pets-v1.0.0` 下的 `moss-1.0.0.zip` 与 `zip-1.0.0.zip`。
 - Antumi 按目录中的固定版本 URL 下载，先检查整个包的大小及 SHA-256，再检查每张图集与配置。
 - 目录包含小预览图的数据，不会让浏览设置的用户下载完整图集。
-- 发布资源不触发 Antumi 应用发版。当前目录尚未推送，附件尚未发布；这些地址是分发约定。
+- main 分支提供目录与源素材；应用下载还需要发布对应的 Release 附件。发布资源不触发 Antumi 应用发版。
 
 ## Format 1
 
